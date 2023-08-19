@@ -1,0 +1,10 @@
+*{
+    margin: 0px;
+}
+.header{
+    background-color: blue;
+    color: white;
+    text-align: center;
+    border: 3px solid red;
+    /* margin-top: 10px */
+}

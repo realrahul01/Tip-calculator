@@ -1,0 +1,30 @@
+.Inp{
+    border: 4px solid green;
+    margin-top: 10px;
+    height: 280px;
+    text-align: center;
+
+}
+.input{
+    width: 80%;
+    padding: 10px;
+    margin-bottom: 30px;
+}
+.h3{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.hr{
+    margin-bottom: 50px;
+    border: 1px solid grey;
+}
+.btn{
+    background-color: rgb(120, 120, 219);
+    color: white;
+    padding: 10px;
+    border: 0px;
+    border-radius: 4px;
+    margin-left: 4px;
+    margin-right: 4px;
+    cursor: pointer;
+}
